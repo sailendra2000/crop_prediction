@@ -1,0 +1,250 @@
+STATE,District,Market,Name,Date,Variety,Min_price,Max_price
+Assam,Dibrugarh,Dibrugarh,Arhar Dal(Tur Dal),20/09/2019,Arhar Dal(Tur),6600,6700
+Assam,Dibrugarh,Dibrugarh,Bengal Gram(Gram)(Whole),20/09/2019,Kabul,5100,5300
+Assam,Dibrugarh,Dibrugarh,Green Gram (Moong)(Whole),20/09/2019,Green Gram Dhall-I,6400,7000
+Assam,Dibrugarh,Dibrugarh,Masur Dal,20/09/2019,Masur Dal,5000,5800
+Assam,Dibrugarh,Dibrugarh,Onion,20/09/2019,Nasik,1700,2300
+Assam,Dibrugarh,Dibrugarh,Potato,20/09/2019,Local,1100,1500
+Assam,Dibrugarh,Dibrugarh,Rice,20/09/2019,Common,2450,3400
+Assam,Dibrugarh,Dibrugarh,Wheat,20/09/2019,Medium,1880,1940
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Apple,20/09/2019,Apple,2000,10000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Bottle gourd,20/09/2019,Other,1600,1800
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,20/09/2019,Other,2000,4000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cucumbar(Kheera),20/09/2019,Other,1600,2400
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Ginger(Green),20/09/2019,Other,4000,6000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Green Chilli,20/09/2019,Other,1800,2400
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Lemon,20/09/2019,Other,4000,5000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Mousambi(Sweet Lime),20/09/2019,Other,1700,5500
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Peas Wet,20/09/2019,Other,5000,7000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Pomegranate,20/09/2019,Other,2000,8000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Potato,20/09/2019,Other,300,1300
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Tomato,20/09/2019,Other,1000,2000
+Gujarat,Junagarh,Mangrol,Bajra(Pearl Millet/Cumbu),20/09/2019,Hybrid,1900,1950
+Gujarat,Junagarh,Mangrol,Bengal Gram(Gram)(Whole),20/09/2019,Desi (F.A.Q. Split),4000,4200
+Gujarat,Junagarh,Mangrol,Corriander seed,20/09/2019,Coriander Seed,4400,5250
+Gujarat,Junagarh,Mangrol,Groundnut,20/09/2019,G20,5125,5200
+Gujarat,Junagarh,Mangrol,Jowar(Sorghum),20/09/2019,Jowar ( White),2500,2750
+Gujarat,Junagarh,Mangrol,Wheat,20/09/2019,Lok-1,2100,2150
+Gujarat,Narmada,Rajpipla,Banana,20/09/2019,Other,160,275
+Gujarat,Surat,Surat,Banana - Green,20/09/2019,Other,800,1100
+Gujarat,Surat,Surat,Beetroot,20/09/2019,Other,1500,2000
+Gujarat,Surat,Surat,Bhindi(Ladies Finger),20/09/2019,Other,900,2750
+Gujarat,Surat,Surat,Bitter gourd,20/09/2019,Other,1500,3250
+Gujarat,Surat,Surat,Bottle gourd,20/09/2019,Other,1100,5400
+Gujarat,Surat,Surat,Brinjal,20/09/2019,Other,1500,5000
+Gujarat,Surat,Surat,Cabbage,20/09/2019,Other,1300,2000
+Gujarat,Surat,Surat,Capsicum,20/09/2019,Other,2500,3400
+Gujarat,Surat,Surat,Carrot,20/09/2019,Other,2250,3500
+Gujarat,Surat,Surat,Cauliflower,20/09/2019,Other,1500,4500
+Gujarat,Surat,Surat,Cluster beans,20/09/2019,Other,1750,5000
+Gujarat,Surat,Surat,Cowpea(Veg),20/09/2019,Other,3000,6500
+Gujarat,Surat,Surat,Cucumbar(Kheera),20/09/2019,Other,750,1750
+Gujarat,Surat,Surat,Drumstick,20/09/2019,Other,3000,5000
+Gujarat,Surat,Surat,Elephant Yam (Suran),20/09/2019,Other,1200,1700
+Gujarat,Surat,Surat,French Beans (Frasbean),20/09/2019,Other,4000,6500
+Gujarat,Surat,Surat,Ginger(Green),20/09/2019,Other,3500,7500
+Gujarat,Surat,Surat,Green Chilli,20/09/2019,Other,1000,2500
+Gujarat,Surat,Surat,Groundnut pods (raw),20/09/2019,Other,2500,3500
+Gujarat,Surat,Surat,Indian Beans (Seam),20/09/2019,Other,3250,4500
+Gujarat,Surat,Surat,Kartali (Kantola),20/09/2019,Other,2000,6000
+Gujarat,Surat,Surat,Lemon,20/09/2019,Other,1500,7000
+Gujarat,Surat,Surat,Little gourd (Kundru),20/09/2019,Other,2000,8000
+Gujarat,Surat,Surat,Papaya (Raw),20/09/2019,Other,600,900
+Gujarat,Surat,Surat,Pegeon Pea (Arhar Fali),20/09/2019,Other,2250,8000
+Gujarat,Surat,Surat,Pointed gourd (Parval),20/09/2019,Other,3250,4500
+Gujarat,Surat,Surat,Potato,20/09/2019,Other,600,1350
+Gujarat,Surat,Surat,Pumpkin,20/09/2019,Other,700,1200
+Gujarat,Surat,Surat,Ridgeguard(Tori),20/09/2019,Other,2750,4250
+Gujarat,Surat,Surat,Snakeguard,20/09/2019,Other,1500,2500
+Gujarat,Surat,Surat,Sponge gourd,20/09/2019,Other,1000,3500
+Gujarat,Surat,Surat,Surat Beans (Papadi),20/09/2019,Other,3000,7500
+Gujarat,Surat,Surat,Sweet Potato,20/09/2019,Other,2500,3000
+Gujarat,Surat,Surat,Tomato,20/09/2019,Other,600,2100
+Gujarat,Surat,Surat,Turmeric (raw),20/09/2019,Other,4000,7500
+Haryana,Kurukshetra,Pehowa,Banana,20/09/2019,Other,1600,1600
+Haryana,Kurukshetra,Pehowa,Cabbage,20/09/2019,Other,1300,1600
+Haryana,Kurukshetra,Pehowa,Green Chilli,20/09/2019,Other,1500,1600
+Haryana,Kurukshetra,Pehowa,Lemon,20/09/2019,Other,1600,1600
+Haryana,Kurukshetra,Pehowa,Onion,20/09/2019,Other,1500,1600
+Haryana,Kurukshetra,Pehowa,Raddish,20/09/2019,Other,600,600
+Haryana,Kurukshetra,Pehowa,Tomato,20/09/2019,Other,1500,1600
+Karnataka,Bangalore,Ramanagara,Beans,20/09/2019,Beans (Whole),2400,2800
+Karnataka,Bangalore,Ramanagara,Beetroot,20/09/2019,Beetroot,2000,2400
+Karnataka,Bangalore,Ramanagara,Bhindi(Ladies Finger),20/09/2019,Bhindi,1600,2000
+Karnataka,Bangalore,Ramanagara,Bitter gourd,20/09/2019,Bitter Gourd,2000,2400
+Karnataka,Bangalore,Ramanagara,Brinjal,20/09/2019,Brinjal,800,1200
+Karnataka,Bangalore,Ramanagara,Bunch Beans,20/09/2019,Bunch Beans,2000,2400
+Karnataka,Bangalore,Ramanagara,Cabbage,20/09/2019,Cabbage,600,800
+Karnataka,Bangalore,Ramanagara,Carrot,20/09/2019,Carrot,2800,3200
+Karnataka,Bangalore,Ramanagara,Chilly Capsicum,20/09/2019,Chilly Capsicum,2000,2400
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),20/09/2019,Cucumbar,900,1100
+Karnataka,Bangalore,Ramanagara,Drumstick,20/09/2019,Drumstick,3600,4000
+Karnataka,Bangalore,Ramanagara,Ginger(Green),20/09/2019,Green Ginger,3000,4000
+Karnataka,Bangalore,Ramanagara,Green Avare (W),20/09/2019,Green Avare (W),2800,3200
+Karnataka,Bangalore,Ramanagara,Green Chilli,20/09/2019,Green Chilly,3200,4000
+Karnataka,Bangalore,Ramanagara,Knool Khol,20/09/2019,Knool Khol,1600,2000
+Karnataka,Bangalore,Ramanagara,Raddish,20/09/2019,Raddish,1200,1600
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),20/09/2019,Ridgeguard(Tori),2400,2800
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,20/09/2019,Seemebadanekai,2000,2400
+Karnataka,Bangalore,Ramanagara,Snakeguard,20/09/2019,Snakeguard,2000,2400
+Karnataka,Bangalore,Ramanagara,Suvarna Gadde,20/09/2019,Suvarnagadde,2800,3000
+Karnataka,Bangalore,Ramanagara,Tomato,20/09/2019,Tomato,1000,1200
+Karnataka,Mysore,Piriya Pattana,Ginger(Green),20/09/2019,Green Ginger,2500,3100
+Karnataka,Mysore,Piriya Pattana,Maize,20/09/2019,Hybrid/Local,1100,2000
+Karnataka,Mysore,Piriya Pattana,Ragi (Finger Millet),20/09/2019,Local,2200,2350
+Kerala,Ernakulam,Perumbavoor,Amaranthus,20/09/2019,Amaranthus,2500,3500
+Kerala,Ernakulam,Perumbavoor,Arecanut(Betelnut/Supari),20/09/2019,Supari,18000,20000
+Kerala,Ernakulam,Perumbavoor,Ashgourd,20/09/2019,Ashgourd,1600,2600
+Kerala,Ernakulam,Perumbavoor,Banana,20/09/2019,Other,4000,5000
+Kerala,Ernakulam,Perumbavoor,Banana,20/09/2019,Palayamthodan,2000,3000
+Kerala,Ernakulam,Perumbavoor,Banana - Green,20/09/2019,Banana - Green,4500,5500
+Kerala,Ernakulam,Perumbavoor,Bhindi(Ladies Finger),20/09/2019,Bhindi,2300,3300
+Kerala,Ernakulam,Perumbavoor,Bitter gourd,20/09/2019,Bitter Gourd,3200,4200
+Kerala,Ernakulam,Perumbavoor,Black pepper,20/09/2019,Garbled,32000,34000
+Kerala,Ernakulam,Perumbavoor,Bottle gourd,20/09/2019,Bottle Gourd,1500,2500
+Kerala,Ernakulam,Perumbavoor,Brinjal,20/09/2019,Brinjal,2400,3400
+Kerala,Ernakulam,Perumbavoor,Cabbage,20/09/2019,Cabbage,1800,2800
+Kerala,Ernakulam,Perumbavoor,Carrot,20/09/2019,Carrot,4500,5500
+Kerala,Ernakulam,Perumbavoor,Cauliflower,20/09/2019,Cauliflower,3000,4000
+Kerala,Ernakulam,Perumbavoor,Colacasia,20/09/2019,Other,4500,5500
+Kerala,Ernakulam,Perumbavoor,Cucumbar(Kheera),20/09/2019,Cucumbar,2000,3000
+Kerala,Ernakulam,Perumbavoor,Drumstick,20/09/2019,Drumstick,5000,6000
+Kerala,Ernakulam,Perumbavoor,Elephant Yam (Suran),20/09/2019,Other,2700,3700
+Kerala,Ernakulam,Perumbavoor,Field Pea,20/09/2019,Field Pea,7500,8500
+Kerala,Ernakulam,Perumbavoor,Ginger(Dry),20/09/2019,Dry,22000,24000
+Kerala,Ernakulam,Perumbavoor,Ginger(Green),20/09/2019,Green Ginger,13000,14000
+Kerala,Ernakulam,Perumbavoor,Green Chilli,20/09/2019,Green Chilly,5000,6000
+Kerala,Ernakulam,Perumbavoor,Little gourd (Kundru),20/09/2019,Other,2400,3400
+Kerala,Ernakulam,Perumbavoor,Mango (Raw-Ripe),20/09/2019,Mango - Raw-Ripe,3500,4500
+Kerala,Ernakulam,Perumbavoor,Onion,20/09/2019,Onion,1800,2800
+Kerala,Ernakulam,Perumbavoor,Pineapple,20/09/2019,Pine Apple,2000,3000
+Kerala,Ernakulam,Perumbavoor,Potato,20/09/2019,Potato,2000,3000
+Kerala,Ernakulam,Perumbavoor,Pumpkin,20/09/2019,Pumpkin,1500,2500
+Kerala,Ernakulam,Perumbavoor,Snakeguard,20/09/2019,Snakeguard,2300,3300
+Kerala,Ernakulam,Perumbavoor,Tomato,20/09/2019,Tomato,1600,2600
+Maharashtra,Amarawati,Morshi,Onion,20/09/2019,Other,2400,2800
+Maharashtra,Amarawati,Morshi,Potato,20/09/2019,Other,900,1100
+Nagaland,Dimapur,Niuland,Banana - Green,20/09/2019,Other,1500,1700
+Nagaland,Dimapur,Niuland,Bitter gourd,20/09/2019,Bitter Gourd,3000,3300
+Nagaland,Dimapur,Niuland,Green Chilli,20/09/2019,Green Chilly,10000,10300
+Nagaland,Dimapur,Niuland,Leafy Vegetable,20/09/2019,Leafy Vegetables,4000,4300
+Nagaland,Dimapur,Niuland,Pumpkin,20/09/2019,Pumpkin,2500,3000
+Nagaland,Dimapur,Niuland,Yam (Ratalu),20/09/2019,Yam (Ratalu),3500,3800
+Nagaland,Kiphire,Kipheri,Banana,20/09/2019,Amruthapani,4300,4600
+Nagaland,Kiphire,Kipheri,Brinjal,20/09/2019,Brinjal,2500,2800
+Nagaland,Kiphire,Kipheri,Leafy Vegetable,20/09/2019,Leafy Vegetables,2100,2400
+Nagaland,Kiphire,Kipheri,Pumpkin,20/09/2019,Other,2500,2800
+Nagaland,Kiphire,Kipheri,Tomato,20/09/2019,Local,4900,5200
+Nagaland,Longleng,Longleng,Banana,20/09/2019,Banana - Ripe,4400,4700
+Nagaland,Longleng,Longleng,Bitter gourd,20/09/2019,Bitter Gourd,3600,3900
+Nagaland,Longleng,Longleng,Cardamoms,20/09/2019,Big,35500,35900
+Nagaland,Longleng,Longleng,Leafy Vegetable,20/09/2019,Leafy Vegetables,1900,2200
+Nagaland,Longleng,Longleng,Papaya (Raw),20/09/2019,Other,2200,2500
+Nagaland,Longleng,Longleng,Pumpkin,20/09/2019,Pumpkin,2000,2300
+Nagaland,Peren,Tenning,Banana,20/09/2019,Other,4300,4600
+Nagaland,Peren,Tenning,Bitter gourd,20/09/2019,Other,3000,3300
+Nagaland,Peren,Tenning,Green Chilli,20/09/2019,Other,5300,5700
+Nagaland,Peren,Tenning,Leafy Vegetable,20/09/2019,Leafy Vegetables,1800,2100
+Nagaland,Peren,Tenning,Papaya (Raw),20/09/2019,Other,1800,2100
+Odisha,Dhenkanal,Hindol,Banana - Green,20/09/2019,Other,2600,2800
+Odisha,Dhenkanal,Hindol,Bhindi(Ladies Finger),20/09/2019,Bhindi,2700,3000
+Odisha,Dhenkanal,Hindol,Bitter gourd,20/09/2019,Bitter Gourd,2800,3200
+Odisha,Dhenkanal,Hindol,Brinjal,20/09/2019,Brinjal,2000,2500
+Odisha,Dhenkanal,Hindol,Cucumbar(Kheera),20/09/2019,Cucumbar,2200,2500
+Odisha,Dhenkanal,Hindol,Onion,20/09/2019,Other,3600,4000
+Odisha,Dhenkanal,Hindol,Pointed gourd (Parval),20/09/2019,Other,3000,3500
+Odisha,Dhenkanal,Hindol,Potato,20/09/2019,Potato,1300,1500
+Odisha,Dhenkanal,Hindol,Pumpkin,20/09/2019,Pumpkin,1100,1300
+Odisha,Dhenkanal,Hindol,Tomato,20/09/2019,Tomato,2500,3000
+Odisha,Malkangiri,Malkanagiri,Banana - Green,20/09/2019,Other,4000,4200
+Odisha,Malkangiri,Malkanagiri,Bhindi(Ladies Finger),20/09/2019,Other,2000,2200
+Odisha,Malkangiri,Malkanagiri,Brinjal,20/09/2019,Other,3000,3200
+Odisha,Malkangiri,Malkanagiri,Cabbage,20/09/2019,Other,2000,2200
+Odisha,Sundergarh,Panposh,Bhindi(Ladies Finger),20/09/2019,Other,1600,2000
+Odisha,Sundergarh,Panposh,Bitter gourd,20/09/2019,Other,2200,2600
+Odisha,Sundergarh,Panposh,Brinjal,20/09/2019,Other,2200,2600
+Odisha,Sundergarh,Panposh,Cabbage,20/09/2019,Other,3600,4000
+Odisha,Sundergarh,Panposh,Cauliflower,20/09/2019,Other,4600,5000
+Odisha,Sundergarh,Panposh,Pointed gourd (Parval),20/09/2019,Other,2600,3000
+Odisha,Sundergarh,Panposh,Tomato,20/09/2019,Other,2200,2600
+Punjab,Mohali,Banur,Green Chilli,20/09/2019,Other,2500,3000
+Punjab,Mohali,Banur,Potato,20/09/2019,Other,1000,1200
+Punjab,Mohali,Banur,Round gourd,20/09/2019,Other,1500,2000
+Tamil Nadu,Coimbatore,Kianthukadavu,Coconut,20/09/2019,Grade- II,2100,2500
+Tamil Nadu,Coimbatore,Pongalur,Maize,20/09/2019,Other,2000,2340
+Tamil Nadu,Dindigul,Gopalpatti,Coconut,20/09/2019,Medium,1100,2100
+Tamil Nadu,Dindigul,Gopalpatti,Maize,20/09/2019,Medium,1500,1700
+Tamil Nadu,Kancheepuram,Chengalpattu,Paddy(Dhan)(Common),20/09/2019,ADT 37,1336,1519
+Tamil Nadu,Kancheepuram,Pallipattu,Paddy(Dhan)(Common),20/09/2019,ADT 37,1336,1519
+Tamil Nadu,Kancheepuram,Sunguvarchatram,Paddy(Dhan)(Common),20/09/2019,ADT 37,1336,1519
+Tamil Nadu,Thanjavur,Budalur,Paddy(Dhan)(Common),20/09/2019,B P T,1800,2000
+Tripura,Gomati,Garjee,Bhindi(Ladies Finger),20/09/2019,Bhindi,6000,7000
+Tripura,Gomati,Garjee,Brinjal,20/09/2019,Round/Long,3000,3500
+Tripura,Gomati,Garjee,French Beans (Frasbean),20/09/2019,French Beans (Frasbean),4000,5000
+Tripura,Gomati,Garjee,Potato,20/09/2019,Jalander,1300,1400
+Tripura,Gomati,Garjee,Tomato,20/09/2019,Hybrid,3000,3500
+Uttar Pradesh,Auraiya,Achalda,Apple,20/09/2019,Delicious,5400,5700
+Uttar Pradesh,Auraiya,Achalda,Arhar Dal(Tur Dal),20/09/2019,Arhar Dal(Tur),7900,8100
+Uttar Pradesh,Auraiya,Achalda,Bajra(Pearl Millet/Cumbu),20/09/2019,Bold,1840,1860
+Uttar Pradesh,Auraiya,Achalda,Banana,20/09/2019,Banana - Ripe,2200,2400
+Uttar Pradesh,Auraiya,Achalda,Bengal Gram(Gram)(Whole),20/09/2019,Desi (Whole),4700,4900
+Uttar Pradesh,Auraiya,Achalda,Black Gram Dal (Urd Dal),20/09/2019,Black Gram Dal,7000,7200
+Uttar Pradesh,Auraiya,Achalda,Bottle gourd,20/09/2019,Bottle Gourd,700,900
+Uttar Pradesh,Auraiya,Achalda,Brinjal,20/09/2019,Round/Long,1000,1200
+Uttar Pradesh,Auraiya,Achalda,Garlic,20/09/2019,Garlic,7300,7500
+Uttar Pradesh,Auraiya,Achalda,Green Chilli,20/09/2019,Green Chilly,2900,3100
+Uttar Pradesh,Auraiya,Achalda,Gur(Jaggery),20/09/2019,Red,3300,3500
+Uttar Pradesh,Auraiya,Achalda,Maize,20/09/2019,Yellow,2000,2020
+Uttar Pradesh,Auraiya,Achalda,Mustard,20/09/2019,Lohi Black,3500,3700
+Uttar Pradesh,Auraiya,Achalda,Mustard Oil,20/09/2019,Mustard Oil,8700,8900
+Uttar Pradesh,Auraiya,Achalda,Onion,20/09/2019,Red,2500,2700
+Uttar Pradesh,Auraiya,Achalda,Potato,20/09/2019,Badshah,600,700
+Uttar Pradesh,Auraiya,Achalda,Pumpkin,20/09/2019,Pumpkin,780,900
+Uttar Pradesh,Auraiya,Achalda,Rice,20/09/2019,III,2560,2670
+Uttar Pradesh,Auraiya,Achalda,Tomato,20/09/2019,Hybrid,1200,1300
+Uttar Pradesh,Auraiya,Achalda,Wheat,20/09/2019,Dara,1890,1910
+Uttar Pradesh,Baghpat,Baraut,Apple,20/09/2019,Kasmir/Shimla - II,4800,5000
+Uttar Pradesh,Baghpat,Baraut,Banana - Green,20/09/2019,Banana - Green,1020,1040
+Uttar Pradesh,Baghpat,Baraut,Bengal Gram(Gram)(Whole),20/09/2019,Desi (Whole),4800,5000
+Uttar Pradesh,Baghpat,Baraut,Bhindi(Ladies Finger),20/09/2019,Bhindi,900,1000
+Uttar Pradesh,Baghpat,Baraut,Bottle gourd,20/09/2019,Bottle Gourd,750,850
+Uttar Pradesh,Baghpat,Baraut,Brinjal,20/09/2019,Round/Long,900,1000
+Uttar Pradesh,Baghpat,Baraut,Cauliflower,20/09/2019,Cauliflower,1100,1300
+Uttar Pradesh,Baghpat,Baraut,Chikoos(Sapota),20/09/2019,Sapota,2400,2600
+Uttar Pradesh,Baghpat,Baraut,Cucumbar(Kheera),20/09/2019,Cucumbar,1100,1300
+Uttar Pradesh,Baghpat,Baraut,Green Chilli,20/09/2019,Green Chilly,1600,1800
+Uttar Pradesh,Baghpat,Baraut,Gur(Jaggery),20/09/2019,Yellow,2700,2900
+Uttar Pradesh,Baghpat,Baraut,Onion,20/09/2019,Red,1500,1700
+Uttar Pradesh,Baghpat,Baraut,Papaya,20/09/2019,Papaya,1100,1200
+Uttar Pradesh,Baghpat,Baraut,Pomegranate,20/09/2019,Pomogranate,4700,4900
+Uttar Pradesh,Baghpat,Baraut,Potato,20/09/2019,Chips,750,850
+Uttar Pradesh,Baghpat,Baraut,Pumpkin,20/09/2019,Pumpkin,500,600
+Uttar Pradesh,Baghpat,Baraut,Raddish,20/09/2019,Raddish,500,600
+Uttar Pradesh,Baghpat,Baraut,Sponge gourd,20/09/2019,Sponge gourd,1000,1200
+Uttar Pradesh,Baghpat,Baraut,Tomato,20/09/2019,Deshi,1300,1500
+Uttar Pradesh,Baghpat,Baraut,Wheat,20/09/2019,Dara,1870,1890
+Uttar Pradesh,Saharanpur,Nakud,Banana - Green,20/09/2019,Banana - Green,1200,1240
+Uttar Pradesh,Saharanpur,Nakud,Bhindi(Ladies Finger),20/09/2019,Bhindi,1400,1420
+Uttar Pradesh,Saharanpur,Nakud,Bottle gourd,20/09/2019,Bottle Gourd,1300,1400
+Uttar Pradesh,Saharanpur,Nakud,Green Chilli,20/09/2019,Green Chilly,2450,2500
+Uttar Pradesh,Saharanpur,Nakud,Onion,20/09/2019,1st Sort,2400,2500
+Uttar Pradesh,Saharanpur,Nakud,Potato,20/09/2019,Other,1200,1250
+Uttar Pradesh,Saharanpur,Nakud,Pumpkin,20/09/2019,Other,1200,1260
+Uttar Pradesh,Saharanpur,Nakud,Wheat,20/09/2019,147 Average,1950,2000
+Uttar Pradesh,Saharanpur,Nakud,Wood,20/09/2019,Other,305,320
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Apple,20/09/2019,Apple,6000,6090
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Banana,20/09/2019,Medium,2480,2560
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Banana - Green,20/09/2019,Banana - Green,1200,1250
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Bottle gourd,20/09/2019,Bottle Gourd,900,1010
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Brinjal,20/09/2019,Brinjal,920,1000
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Potato,20/09/2019,Potato,950,1050
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Rice,20/09/2019,Common,2700,2800
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Tomato,20/09/2019,Tomato,1600,1700
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Wheat,20/09/2019,Dara,1900,1990
+West Bengal,Darjeeling,Darjeeling,Cabbage,20/09/2019,Other,2100,2300
+West Bengal,Darjeeling,Darjeeling,Carrot,20/09/2019,Other,4900,5100
+West Bengal,Darjeeling,Darjeeling,French Beans (Frasbean),20/09/2019,Other,5500,5700
+West Bengal,Darjeeling,Darjeeling,Ginger(Green),20/09/2019,Other,8600,9000
+West Bengal,Darjeeling,Darjeeling,Potato,20/09/2019,Local,2200,2400
+West Bengal,Darjeeling,Darjeeling,Raddish,20/09/2019,Raddish,1700,1900
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),20/09/2019,Other,1200,1400
