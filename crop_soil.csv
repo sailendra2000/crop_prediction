@@ -1,0 +1,29 @@
+Crop,ph_min,ph_max,Soil
+Rice,5,7,Clayey loam soil
+Wheat,6,7,Loam soil
+Sugarcane,5,8.5,Red volcanic soil
+Sugarcane,5,8.5,Alluvial soil
+Maize,5.6,7.5,Leached red soil
+Maize,5.6,7.5,Temperate podzols
+Cotton,5.5,8,Laterite soil
+Cotton,5.5,8,Alluvial soil
+Cotton,5.5,8,Black soil
+Cotton,5.5,8,Loamy sand soil
+Carrot,6,7,Sandy soil
+Carrot,6,7,Clay loam soil
+Brinjal,5.5,6,Silt loam soil
+Brinjal,5.5,6,Clay loam soil
+Bottlegourd,6.5,7.5,Sandy loam soil
+Tomato,6,6.8,Loam soil
+Tomato,6,6.8,Sandy loam soil
+Onion,5.5,6.5,Sandy loam 
+Onion,5.5,6.5,Heavy clay soil
+Potato,4.8,5.5,Well drained loam soil
+Potato,4.8,5.5,Sandy loam soil
+Potato,4.8,5.5,loamy soil
+Lemon,5.5,6.5,Sandy loam soil
+Lemon,5.5,6.5,Loamy soil
+Lemon,5.5,6.5,Slightly alkaline soil
+Cabbage,6.5,6.8,Sand loam soil
+Cabbage,6.5,6.8,Clay loam soil
+Rice,5,7,alluvial soil
