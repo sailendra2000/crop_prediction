@@ -1,0 +1,24 @@
+State,Soil,ph_min,ph_max,district
+tamilnadu,black soil,6,7.7,Coimbatore
+tamilnadu,laterite soil,6,8,Namakkal
+tamilnadu,alluvial soil,5,7,Thanjavur
+punjab,saline and alkaline soil,6,6.8,Ludhiana
+punjab,arid and desert soil,6,6.8,Amritsar
+punjab,alluvial soil,5,7,Moga
+andhrapradesh,black soil,6,8,Anantapur
+andhrapradesh,red soil,5,8,WestGodavari
+westbengal ,saline and alkaline soil,6,7,Jhargram
+gujarat,alluvial soil,5.3,6.6,Junagarh
+gujarat,black soil,5.8,7.6,Rajkot
+gujarat,arid and desert soil,6,6.5,Junagarh
+gujarat,saline and alkaline soil,6,7,Rajkot
+haryana,alluvial soil,5.8,6.5,Gurgaon
+haryana,saline and alkaline soil,6,7,Gurgaon
+uttarpradesh,alluvial soil,5.5,7,Allahabad
+uttarpradesh,red soil,5,8,Bareilly
+madhyapradesh,laterite soil,6,8,Gwalior
+madhyapradesh,black soil,6,8,Bhopal
+assam,laterite soil,6,8,Dhubri
+kerala,laterite soil,6,8,Alappuzha
+orrisa,laterite soil,6,8,Cuttack
+chattisgarh,red soil,5,8,Bilaspur
